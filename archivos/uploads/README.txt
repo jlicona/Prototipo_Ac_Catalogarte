@@ -1,0 +1,1 @@
+Aqui se alojan temporalmente las exposiciones que se cargan en la plataforma
