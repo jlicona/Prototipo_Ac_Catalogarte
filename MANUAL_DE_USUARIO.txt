@@ -1,4 +1,4 @@
-MANUAL DE USUARIO
+ÔªøMANUAL DE USUARIO
 
 A. VER LAS EXPOSICIONES
 B. AGREGAR EXPOSICIONES
@@ -11,55 +11,55 @@ A. VER LAS EXPOSICIONES :::::::::::::
 :::::::::::::::::::::::::::::::::::::
 
 1. Acceda a http://catalogarte.net/.
-2. De clic en el men˙ a ìEXPOSICIONESî.
-3. Una vez en la matriz de exposiciones, de clic en la exposiciÛn que desea ver.  Se abrir· la ficha de la misma.
-4. Desde la ficha, de clic en el Ìcono con un ojo para acceder al cat·logo de la ExposiciÛn.
+2. De clic en el men√∫ a ‚ÄúEXPOSICIONES‚Äù.
+3. Una vez en la matriz de exposiciones, de clic en la exposici√≥n que desea ver.  Se abrir√° la ficha de la misma.
+4. Desde la ficha, de clic en el √≠cono con un ojo para acceder al cat√°logo de la Exposici√≥n.
 
 :::::::::::::::::::::::::::::::::::::
 B. AGREGAR EXPOSICIONES :::::::::::::
 :::::::::::::::::::::::::::::::::::::
 
 Previamente a realizar este proceso:
-1. Deber· tener fotografiadas las obras que se expondr·n.
-2. Deber· tener descargada la ficha tÈcnica que le corresponda seg˙n su sistema operativo provista para este fin desde http://catalogarte.net/index.php/ayuda/faq en la pregunta "øCuales son las restricciones de este Prototipo para crear una nueva ExposiciÛn?"
-3. informaciÛn que solicita la Ficha TÈcnica para cada ExposiciÛn, Autor y Obra
+1. Deber√° tener fotografiadas las obras que se expondr√°n.
+2. Deber√° tener descargada la ficha t√©cnica que le corresponda seg√∫n su sistema operativo provista para este fin desde http://catalogarte.net/index.php/ayuda/faq en la pregunta "¬øCuales son las restricciones de este Prototipo para crear una nueva Exposici√≥n?"
+3. informaci√≥n que solicita la Ficha T√©cnica para cada Exposici√≥n, Autor y Obra
 Proceso:
-1. Abra la ficha tÈcnica en Excel y Capture la informaciÛn que solicita la ficha tÈcnica de la ExposiciÛn Actual.
-2. Capture la informaciÛn que solicita la ficha tÈcnica de autor y sus obras y repita este proceso por cada Autor y sus obras correspondientes.
-3. Guarde la ficha tÈcnica y coloque todas las fotografÌas de la exposiciÛn en la misma carpeta de la Ficha TÈcnica.
-4. Genere un archivo Zip que contenga la Ficha TÈcnica y las FotografÌas.
+1. Abra la ficha t√©cnica en Excel y Capture la informaci√≥n que solicita la ficha t√©cnica de la Exposici√≥n Actual.
+2. Capture la informaci√≥n que solicita la ficha t√©cnica de autor y sus obras y repita este proceso por cada Autor y sus obras correspondientes.
+3. Guarde la ficha t√©cnica y coloque todas las fotograf√≠as de la exposici√≥n en la misma carpeta de la Ficha T√©cnica.
+4. Genere un archivo Zip que contenga la Ficha T√©cnica y las Fotograf√≠as.
 5. Acceda a http://catalogarte.net/index.php/admin/acceso e ingrese sus credenciales de Editor o Administrador.
-6. De clic en el submen˙ de Exposiciones a "AGREGAR NUEVA EXPOSICI”N".
-7. Seleccione el archivo Zip y presione el botÛn "Subir Ficha TÈcnica".
+6. De clic en el submen√∫ de Exposiciones a "AGREGAR NUEVA EXPOSICI√ìN".
+7. Seleccione el archivo Zip y presione el bot√≥n "Subir Ficha T√©cnica".
 
 :::::::::::::::::::::::::::::::::::::
-C. AGREGAR EXPOSICIONES (publicar, modificar multimedios o vincular con artÌculos):
+C. AGREGAR EXPOSICIONES (publicar, modificar multimedios o vincular con art√≠culos):
 :::::::::::::::::::::::::::::::::::::
 
 1. Acceda a http://catalogarte.net/index.php/admin/acceso e ingrese sus credenciales de Editor o Administrador.
-2. Desde el Listado de Exposiciones, busque el botÛn del men˙ que corresponda a la accion que desea realizar.
-2.1 Presione "Publicar" para hacer visible a los usuarios la ExposiciÛn.  Ocultar para el proceso opuesto.
-2.2 Presione "Administrar Multimedios" para acceder a las im·genes que se levantaron para esta exposiciÛn y editarlas.
-2.3 Presione Vincular ArtÌculos, aparecer· una ventana donde se listar·n los artÌculos disponibles para vincular, un botÛn para vincularlos y los que ya est·n vinculados a esta exposiciÛn.
+2. Desde el Listado de Exposiciones, busque el bot√≥n del men√∫ que corresponda a la accion que desea realizar.
+2.1 Presione "Publicar" para hacer visible a los usuarios la Exposici√≥n.  Ocultar para el proceso opuesto.
+2.2 Presione "Administrar Multimedios" para acceder a las im√°genes que se levantaron para esta exposici√≥n y editarlas.
+2.3 Presione Vincular Art√≠culos, aparecer√° una ventana donde se listar√°n los art√≠culos disponibles para vincular, un bot√≥n para vincularlos y los que ya est√°n vinculados a esta exposici√≥n.
 
 :::::::::::::::::::::::::::::::::::::
 D. CREAR UN ARTICULO ::::::::::::::::
 :::::::::::::::::::::::::::::::::::::
 
 1. Acceda a http://catalogarte.net/index.php/admin/acceso e ingrese sus credenciales de Editor.
-2. De clic en el men˙ a "ARTÕCULOS".
-3. De clic en el submen˙ "AGREGAR NUEVO ARTÕCULO".
-4. Capture el nombre del ArtÌculo y, si lo desea, su autor y alguna referencia del mismo y presione Guardar.
+2. De clic en el men√∫ a "ART√çCULOS".
+3. De clic en el submen√∫ "AGREGAR NUEVO ART√çCULO".
+4. Capture el nombre del Art√≠culo y, si lo desea, su autor y alguna referencia del mismo y presione Guardar.
 
 :::::::::::::::::::::::::::::::::::::
-E.  Agregar hojas a un artÌculo :::::
+E.  Agregar hojas a un art√≠culo :::::
 :::::::::::::::::::::::::::::::::::::
 
 1. Acceda a http://catalogarte.net/index.php/admin/acceso e ingrese sus credenciales de Editor.
-2. De clic en el men˙ a "ARTÕCULOS".
-3. Desde el listado de ArtÌculos, presione el botÛn de la columna "HOJAS" del artÌculo al que quiera agregar contenido.
+2. De clic en el men√∫ a "ART√çCULOS".
+3. Desde el listado de Art√≠culos, presione el bot√≥n de la columna "HOJAS" del art√≠culo al que quiera agregar contenido.
 4. Presione Agregar Hoja.
 5. Seleccione el tipo de Plantilla que desea usar (1, 2 o 3 Columnas) y presione "Seleccionar".
-6. Arrastre los elementos que aparecen en la parte izquierda de la pantalla a la hoja del artÌculo.  Puede editar sus contenidos dependiendo si es texto o una imagen.
+6. Arrastre los elementos que aparecen en la parte izquierda de la pantalla a la hoja del art√≠culo.  Puede editar sus contenidos dependiendo si es texto o una imagen.
 7. Una vez que haya terminado de editar su contenido, presione "Guardar Hoja".
-8. Desde el listado de hojas del artÌculo, usted podr· cambiar el orden de las hojas o eliminar a las mismas con los botones "Arriba", "Abajo" y "Eliminar".
+8. Desde el listado de hojas del art√≠culo, usted podr√° cambiar el orden de las hojas o eliminar a las mismas con los botones "Arriba", "Abajo" y "Eliminar".

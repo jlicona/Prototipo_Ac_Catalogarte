@@ -204,6 +204,27 @@ $listaHojas = array('<div class="contenedor_invisible"></div>');
 		$listaHojas[] = '<div class="contenedor_hoja"></div>';
 	
 ?>
+<!--
+# CATALOGARTE : Prototipo para la difusion de Exposiciones
+# Copyright (c) 2014 IMPORTARE
+# Auteur - Author - Autor: Axel Sanchez < axel20000@gmail.com >
+# Auteur - Author - Autor: Hugo Gutierrez < akira.redwolf@gmail.com >
+# Auteur - Author - Autor: Jaime Licona < liconita@gmail.com >
+# Auteur - Author - Autor: Luis Sol < luisol.04@gmail.com >
+# 
+# Este programa es software libre; Ud. puede redistribuirlo y/o modificarlo
+# bajo los terminos de la Licencia Publica General GNU tal como publico 
+# la Fundacion del Software Libre; en su version 3 de la Licencia, o
+# (según su voluntad) cualesquiera otras posteriores.
+#
+# Este programa se distribuye con el animo de que sea útil, pero SIN
+# GARANTIA de NINGUN TIPO; incluso sin la garantia implicita de USO MERCANTIL
+# o UTILIDAD PARA UN USO ESPECIFICO. Vease la Licencia Publica General GNU 
+# para mas detalles.
+#
+# Deberia haber recibido una copia de la Licencia Publica General GNU con este
+# programa, si no ha sido así, consulte <http://www.gnu.org/licenses/>
+# -->
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 	<head>
@@ -277,6 +298,7 @@ $listaHojas = array('<div class="contenedor_invisible"></div>');
 
 				<span id="tblcontents" class="menu-button">Table of Contents</span>
 
+				<img class="banner_catalogo" src="<?=  base_url()?>img/banner_catalogo.png" />
 			</div>
 				
 		</div><!-- /container -->
@@ -297,6 +319,14 @@ $listaHojas = array('<div class="contenedor_invisible"></div>');
 			
 			.bb-custom-wrapper nav span, .menu-button {
 				background:<?=$catalogo['color']?>;
+			}
+			
+			.banner_catalogo{
+				position: absolute;
+				left: 130px;
+				top: 0px;
+				z-index: 1000;
+				width: 600px;
 			}
 		</style>
 		
@@ -331,11 +361,16 @@ $listaHojas = array('<div class="contenedor_invisible"></div>');
 			
 			function actualizarDimensiones(){
 				var radio = $("body").width() / 1366; //1232;
+				var altoLimite = 796; //$("body").height();
+				if( radio * altoLimite > ($("body").height()-50) ) //> altoLimite )
+					radio = ($("body").height()-50) / altoLimite;
+				var padLeft = ($("body").width() - (radio*1232)) / 2;
 					//alert('radio '+radio+ ", body:"+$("body").width());
 				var css = {
 					'transform': 'scale('+radio+','+radio+')', 
 					'transform-origin': 'left top'};
 				$(".micontenido").css(css);
+				$(".scroller").css({"padding-left" : padLeft});
 				//alert($('body').width());
 			}
 			
