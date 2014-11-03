@@ -1,0 +1,65 @@
+MANUAL DE USUARIO
+
+A. VER LAS EXPOSICIONES
+B. AGREGAR EXPOSICIONES
+C. ADMINISTRAR EXPOSICIONES
+D. CREAR UN ARTICULO
+E. AGREGAR HOJAS A UN ARTICULO
+
+:::::::::::::::::::::::::::::::::::::
+A. VER LAS EXPOSICIONES :::::::::::::
+:::::::::::::::::::::::::::::::::::::
+
+1. Acceda a http://catalogarte.net/.
+2. De clic en el menú a “EXPOSICIONES”.
+3. Una vez en la matriz de exposiciones, de clic en la exposición que desea ver.  Se abrirá la ficha de la misma.
+4. Desde la ficha, de clic en el ícono con un ojo para acceder al catálogo de la Exposición.
+
+:::::::::::::::::::::::::::::::::::::
+B. AGREGAR EXPOSICIONES :::::::::::::
+:::::::::::::::::::::::::::::::::::::
+
+Previamente a realizar este proceso:
+1. Deberá tener fotografiadas las obras que se expondrán.
+2. Deberá tener descargada la ficha técnica que le corresponda según su sistema operativo provista para este fin desde http://catalogarte.net/index.php/ayuda/faq en la pregunta "¿Cuales son las restricciones de este Prototipo para crear una nueva Exposición?"
+3. información que solicita la Ficha Técnica para cada Exposición, Autor y Obra
+Proceso:
+1. Abra la ficha técnica en Excel y Capture la información que solicita la ficha técnica de la Exposición Actual.
+2. Capture la información que solicita la ficha técnica de autor y sus obras y repita este proceso por cada Autor y sus obras correspondientes.
+3. Guarde la ficha técnica y coloque todas las fotografías de la exposición en la misma carpeta de la Ficha Técnica.
+4. Genere un archivo Zip que contenga la Ficha Técnica y las Fotografías.
+5. Acceda a http://catalogarte.net/index.php/admin/acceso e ingrese sus credenciales de Editor o Administrador.
+6. De clic en el submenú de Exposiciones a "AGREGAR NUEVA EXPOSICIÓN".
+7. Seleccione el archivo Zip y presione el botón "Subir Ficha Técnica".
+
+:::::::::::::::::::::::::::::::::::::
+C. AGREGAR EXPOSICIONES (publicar, modificar multimedios o vincular con artículos):
+:::::::::::::::::::::::::::::::::::::
+
+1. Acceda a http://catalogarte.net/index.php/admin/acceso e ingrese sus credenciales de Editor o Administrador.
+2. Desde el Listado de Exposiciones, busque el botón del menú que corresponda a la accion que desea realizar.
+2.1 Presione "Publicar" para hacer visible a los usuarios la Exposición.  Ocultar para el proceso opuesto.
+2.2 Presione "Administrar Multimedios" para acceder a las imágenes que se levantaron para esta exposición y editarlas.
+2.3 Presione Vincular Artículos, aparecerá una ventana donde se listarán los artículos disponibles para vincular, un botón para vincularlos y los que ya están vinculados a esta exposición.
+
+:::::::::::::::::::::::::::::::::::::
+D. CREAR UN ARTICULO ::::::::::::::::
+:::::::::::::::::::::::::::::::::::::
+
+1. Acceda a http://catalogarte.net/index.php/admin/acceso e ingrese sus credenciales de Editor.
+2. De clic en el menú a "ARTÍCULOS".
+3. De clic en el submenú "AGREGAR NUEVO ARTÍCULO".
+4. Capture el nombre del Artículo y, si lo desea, su autor y alguna referencia del mismo y presione Guardar.
+
+:::::::::::::::::::::::::::::::::::::
+E.  Agregar hojas a un artículo :::::
+:::::::::::::::::::::::::::::::::::::
+
+1. Acceda a http://catalogarte.net/index.php/admin/acceso e ingrese sus credenciales de Editor.
+2. De clic en el menú a "ARTÍCULOS".
+3. Desde el listado de Artículos, presione el botón de la columna "HOJAS" del artículo al que quiera agregar contenido.
+4. Presione Agregar Hoja.
+5. Seleccione el tipo de Plantilla que desea usar (1, 2 o 3 Columnas) y presione "Seleccionar".
+6. Arrastre los elementos que aparecen en la parte izquierda de la pantalla a la hoja del artículo.  Puede editar sus contenidos dependiendo si es texto o una imagen.
+7. Una vez que haya terminado de editar su contenido, presione "Guardar Hoja".
+8. Desde el listado de hojas del artículo, usted podrá cambiar el orden de las hojas o eliminar a las mismas con los botones "Arriba", "Abajo" y "Eliminar".
